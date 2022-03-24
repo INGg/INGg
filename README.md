@@ -3,7 +3,7 @@
 * 🎈 ACMer(No Prize now :-(  )
 * 🎓 Data Science and Big Data Technology undergraduate at [🏫QFNU](https://www.qfnu.edu.cn/) (2020 - )
 * 🌟 Contributor of our [ACM_Contest_QQbot](https://github.com/INGg/ACM_Contest_QQbot)
-* ❤️ Love Python , open source software and other interesting
+* ❤️ Love Python , open source software and other interesting things
 
 [Blog (zh)](http://blog.ingwebsite.cn/)
 
