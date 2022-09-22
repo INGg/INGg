@@ -2,7 +2,7 @@
 
 * 🎈 ACMer(2021 Lan Qiao Cup National Second Prize🥈; 2022 CCCC Group Programming Ladder Tournament Second prize of national finals team🥈; The 12th Shandong Provincial ICPC Collegiate Programming Contest Bronze medal🥉)
 * 🎓 Data Science and Big Data Technology undergraduate at [🏫QFNU](https://www.qfnu.edu.cn/) (2020 - )
-* 🌟 Contributor of our [ACM_Contest_QQbot](https://github.com/INGg/ACM_Contest_QQbot)
+* 🌟 Contributor of our [ACM_Contest_QQbot](https://github.com/INGg/ACM_Contest_QQ_bot.git)
 * ❤️ Love Python go, open source software and other interesting things
 
 [Blog (zh)](http://blog.ingwebsite.cn/)
